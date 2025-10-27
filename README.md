@@ -161,23 +161,6 @@ Age, Transaction_Amount, Account_Balance
 🔗[LinkedIn Profile](https://www.linkedin.com/in/payal-dhokane-79967b294/)    
 📧 payaldhokane282@gmail.com  
 
-**Sajrudin Aalam**  
-📍 B.Tech CSE (AI/ML), Graphic Era Hill University (2026)  
-🔗[LinkedIn Profile](https://www.linkedin.com/in/sajrudin-aalam-21b861287/)  
-📧 aalamsajrudin@gmail.com  
-
-
-**Rekha Kumari Bheel**  
-📍 B.Tech IT, Govt. Women Engineering College,Ajmer
-
-🔗[LinkedIn Profile](https://www.linkedin.com/in/rekha-gunarat-7b9459279/)  
-📧 rekha.kumari1928@gmail.com
-
-**Riya Rawat**  
-📍 B.Tech CSE, Graphic Era Hill University (2026)  
-🔗[LinkedIn Profile](https://www.linkedin.com/in/riya-rawat-bb2b78265/)  
-
-
 
 
 
