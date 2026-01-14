@@ -1,4 +1,4 @@
-# 🏦 **FRAUDSENSE** : Advancing Fraud Detection through CTGAN-Based Synthetic Transactions
+# 🏦 **FRAUDSENSE** : Advancing Fraud Detection through Tabular GAN Synthetic Transactions
 
 This project focuses on enhancing fraud detection systems by generating privacy-preserving synthetic bank transactions .
 The synthetic data augments real-world transactions to address class imbalance and data scarcity, leading to more robust and generalizable fraud detection models.
